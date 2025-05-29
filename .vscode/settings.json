@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "stdint.h": "c",
+    "gpio.h": "c",
+    "oled_data.h": "c"
+  }
+}
